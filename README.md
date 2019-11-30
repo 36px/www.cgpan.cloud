@@ -1,2 +1,2 @@
 # www.cgpan.cloud
-the website of  cgpan.cloud
+the web-site of cgpan.cloud
